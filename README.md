@@ -1,4 +1,4 @@
-## 官方网站：https://v0v.bid
+## 原官方网站：https://v0v.bid
 
 ---
 
@@ -6,7 +6,7 @@
 
 ### windows系统一句命令激活
 
-#### 打开 命令提示符（管理员） 运行：slmgr /skms kms.v0v.bid && slmgr /ato
+#### 打开 命令提示符（管理员） 运行：slmgr /skms KMS服务器IP地址 && slmgr /ato
 
 ---
 
