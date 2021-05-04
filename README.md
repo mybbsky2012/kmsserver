@@ -16,12 +16,12 @@
 
 ### 一键安装KMS服务 （Debian/Ubuntu/Mint 等）
 ```
-wget -N --no-check-certificate https://git.io/J32tU && chmod +x k.sh && bash k.sh debian
+wget -N --no-check-certificate git.io/J32tU && chmod +x k.sh && bash k.sh debian
 ```
 
 ### 一键安装KMS服务 （CentOS/Redhat/Fedora 等）（如果系统开启了防火墙 须自行开放 1688 端口）
 ```
-wget -N --no-check-certificate https://git.io/J32tU && chmod +x k.sh && bash k.sh centos
+wget -N --no-check-certificate git.io/J32tU && chmod +x k.sh && bash k.sh centos
 ```
 
 ### 启动KMS服务
